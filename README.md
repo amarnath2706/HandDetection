@@ -56,7 +56,8 @@ Now our dependencies are installed successfully and our indexing operation also 
 
 Once the requirements installation done.
 Run hand detection.py file
-![image](https://user-images.githubusercontent.com/68268209/153412235-89cfef1a-2c4a-4ca0-8369-45c42bbb6856.png)
-![image](https://user-images.githubusercontent.com/68268209/153412250-e66735e6-7949-4558-8607-632e69512338.png)
+![image](https://user-images.githubusercontent.com/68268209/153700330-a902b2c6-f623-4580-bd40-2cffbf0bff34.png)
+![image](https://user-images.githubusercontent.com/68268209/153700336-e3ad5edf-cb3c-4bb7-a06b-8a91770b7209.png)
+
 
 
